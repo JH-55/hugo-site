@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Theme Dream</title>
+    <title>Posts on Jimmy Hendrickx</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Hugo Theme Dream</description>
+    <description>Recent content in Posts on Jimmy Hendrickx</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Aug 2025 19:50:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>First Post</title>
       <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Wed, 13 Aug 2025 19:50:44 +0200</pubDate>
+      <pubDate>Thu, 14 Aug 2025 19:50:44 +0200</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This piece of text is visible on the front page as a short summary. I don&amp;rsquo;t know how long this can get, but this seems long enough.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

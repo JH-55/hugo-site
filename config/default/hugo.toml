@@ -1,7 +1,7 @@
 baseurl = "https://example.com"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Jimmy Hendrickx"
+title = "Hugo Theme Dream"
 theme = "dream"
 
 # [services]
@@ -19,10 +19,10 @@ darkTheme = "forest"
 # backgroundImage = "img/global-background.jpg"
 # backgroundImageDark = ""
 
-author = "JimmyHendrickx"
-# description = "Adding a description here"
-avatar = "images/logo_250x250_black_round.jpg"
-headerTitle = "JimmyHendrickx"
+author = "Dream"
+# description = ""
+# avatar = "img/avatar.png"
+headerTitle = "Hugo Theme Dream"
 # motto = ""
 
 # footerBottomText = ""
