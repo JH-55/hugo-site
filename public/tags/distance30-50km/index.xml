@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jimmy Hendrickx</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Jimmy Hendrickx</description>
+    <title>Distance:30-50km on Jimmy Hendrickx</title>
+    <link>http://localhost:1313/tags/distance30-50km/</link>
+    <description>Recent content in Distance:30-50km on Jimmy Hendrickx</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 18 Aug 2025 17:29:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/distance30-50km/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trailrun Swalmen - De Meinweg</title>
       <link>http://localhost:1313/posts/trailrun_20250817/</link>
       <pubDate>Mon, 18 Aug 2025 17:29:20 +0200</pubDate>
       <guid>http://localhost:1313/posts/trailrun_20250817/</guid>
       <description>&lt;p&gt;Trailrun from Swalmen to national park &amp;ldquo;De Meinweg&amp;rdquo;, mostly flat and offroad.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Thu, 14 Aug 2025 19:50:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;This piece of text is visible on the front page as a short summary. I don&amp;rsquo;t know how long this can get, but this seems long enough.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

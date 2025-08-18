@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Jimmy Hendrickx</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Aug 2025 19:50:44 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 17:29:20 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trailrun Swalmen - De Meinweg</title>
+      <link>http://localhost:1313/posts/trailrun_20250817/</link>
+      <pubDate>Mon, 18 Aug 2025 17:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/posts/trailrun_20250817/</guid>
+      <description>&lt;p&gt;Trailrun from Swalmen to national park &amp;ldquo;De Meinweg&amp;rdquo;, mostly flat and offroad.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First Post</title>
       <link>http://localhost:1313/posts/hello-world/</link>
